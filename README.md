@@ -1,4 +1,11 @@
 # pi-reboot-button-kiosk
+---20240711---
+updateing this repo for use with the Pimoroni Keybow mini for pi zero https://shop.pimoroni.com/en-us/products/keybow-mini-3-key-macro-pad-kit
+
+The GPIO used with the keyboard are 11,15,31 for keys 1, 2, 3 - https://pinout.xyz/pinout/keybow_mini
+
+
+----
 
 Reboot Button script based on the script by Barry Hubbard http://www.barryhubbard.com/raspberry-pi/howto-raspberry-pi-raspbian-power-on-off-gpio-button/
 
